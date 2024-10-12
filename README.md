@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=#9b5de5&size=15&pause=1000&width=600&lines=Hey!+It's+Joshua!;I'm+a+Python+Developer...;I'm+also+a+Telecomunication+Engineer;And+I'm+a+proud+Colombian+🇨🇴)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Protest+Strike&color=#9b5de5&size=15&pause=1000&width=600&lines=Hey!+It's+Joshua!;I'm+a+Python+Developer...;I'm+also+a+Telecomunication+Engineer;And+I'm+a+proud+Colombian+🇨🇴)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elyochuer&label=Profile%20views&color=0e75b6&style=flat" alt="elyochuer" /> </p>
 
