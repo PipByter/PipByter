@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi there👋</h1>
 
-<!--
-**PipByter/PipByter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=#9b5de5&size=15&pause=1000&width=600&lines=Hey!+It's+Joshua!;I'm+a+Python+Developer...;I'm+also+a+Telecomunication+Engineer;And+I'm+a+proud+Colombian+🇨🇴)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyochuer&label=Profile%20views&color=0e75b6&style=flat" alt="elyochuer" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **| NLP | RPA |**
+
+- 💬 Ask me about **| Python | MySQL | Web Scraping | Cobol |**
+
+- 📫 How to reach me **Joshuaorrego8@gmail.com**
+
+- ⚡ Fun fact **I am committed in proyects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jhosua-orrego-garcía-ba8b361bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=
