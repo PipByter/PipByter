@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋</h1>
+<h1 align="center">Hi there!👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=31cb00&size=30&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hey!+It's+Joshua!;I'm+a+Python+Developer...;I'm+also+a+Telecomunication+Engineer;)](https://git.io/typing-svg)
 
