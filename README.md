@@ -23,14 +23,14 @@
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, Python, C++
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Jenkins
+- **Languages:** Java, Python, C++, PHP, MySQL,
+- **Frameworks:** React, Node.js, Flask
+- **Tools:** Git, Packet Tracer, VMware
 
 ### 🌐 Find Me Online
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/joshua)
-- 💻 [Portfolio](https://www.joshua.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jhosua-orrego-garc%C3%ADa-ba8b361bb)
+- 💻 [Portfolio]()
 
 ---
 
