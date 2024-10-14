@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="200" alt="Welcome GIF">
+  <img src="https://media.giphy.com/media/gYWeVOiMmbg3kzCTq5/giphy.gif" width="200" alt="Welcome GIF">
 </h1>
 
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
