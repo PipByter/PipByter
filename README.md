@@ -1,61 +1,17 @@
-<!-- ASCII Art Title as the Header -->
-<h1 align="center">
-    <pre style="font-family: 'Courier New', monospace; text-align: center; color: green;">
-██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
-██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
-██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
-██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
-╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
- ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
-    </pre>
-</h1>
+<!-- Welcome Section with GIFs and Typing Text -->
+<h1 align="center">👋 ¡Bienvenido a mi proyecto!</h1>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="100" height="100" alt="Left GIF">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hey!+It's+Joshua!;I'm+a+Software+Developer...;And+also+a+Telecomunication+Engineer;I+Hope+you+like+my+profile!" alt="Typing SVG">
-    </a>
-    <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="100" height="100" alt="Right GIF">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=elyochuer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=16FF00&size=22&pause=1000&center=true&vCenter=true&width=435&lines=¡Hola!+Soy+Joshua!;Desarrollador+de+Software+%26+Ingeniero+en+Telecomunicaciones;¡Bienvenido+a+mi+perfil+de+GitHub!" alt="Typing SVG">
+  </a>
 </p>
 
----
-
-### About Me
-
-- 🌱 I’m currently learning: **Natural Language Processing (NLP), Robotic Process Automation (RPA)**
-- 💬 Ask me about: **Python, MySQL, Web Scraping, Cobol**
-- 📫 How to reach me: [Joshuaorrego8@gmail.com](mailto:Joshuaorrego8@gmail.com)
-- ⚡ Fun fact: **I am fully committed to my projects!**
-
----
-
-### 📈 GitHub Stats
-<!-- Optionally, you can add GitHub stats here if you want to display them -->
-<!-- Example:
+<!-- Fun animated line separators -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=elyochuer&show_icons=true&theme=radical" alt="elyochuer's GitHub Stats">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Separator">
 </p>
--->
-
----
-
-### 📫 Connect with Me
-Feel free to reach out if you have any questions or would like to collaborate!
-
-- **Email:** [Joshuaorrego8@gmail.com](mailto:Joshuaorrego8@gmail.com)
-
-<!-- Add more ways to connect if available, e.g., LinkedIn, Twitter, Portfolio Website, etc. -->
-
----
-
-### ⚡ Fun Fact
-Did you know? **I am always passionate about learning and taking on new challenges in technology!**
-
----
-
-<!-- Add any additional sections you might like, such as projects, skills, or featured repositories -->
-
