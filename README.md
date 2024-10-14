@@ -1,4 +1,12 @@
-<h1 align="center">Hi there! 👋</h1>
+<!-- ASCII Art Title as the Header -->
+<h1 align="center">
+    <pre style="font-family: 'Courier New', monospace; text-align: center; color: green;">
+ _    _  ____  __    ___  _____  __  __  ____ 
+( \/\/ )( ___)(  )  / __)(  _  )(  \/  )( ___)
+ )    (  )__)  )(__( (__  )(_)(  )    (  )__) 
+(__/\__)(____)(____)\___)(_____)(_/\/\_)(____)
+    </pre>
+</h1>
 
 <p align="center">
     <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="100" height="100" alt="Left GIF">
