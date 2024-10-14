@@ -1,7 +1,4 @@
 
-
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
-
 <p align="center">
     <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="100" height="100" alt="Left GIF">
     <a href="https://git.io/typing-svg">
