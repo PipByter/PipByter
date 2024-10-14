@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-    <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" alt="Left GIF">
+    <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="50" height="50" alt="Left GIF">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hey!+It's+Joshua!;I'm+a+Software+Developer...;And+also+a+Telecomunication+Engineer;I+Hope+you+like+my+profile!" alt="Typing SVG">
     </a>
