@@ -32,8 +32,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/jhosua-orrego-garc%C3%ADa-ba8b361bb)
 - 💻 [Portfolio]()
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/YRq7xXEDfSdRW/giphy.gif" width="300" alt="Coding GIF">
-</p>
