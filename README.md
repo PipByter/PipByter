@@ -1,11 +1,10 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp6dDhra2RoOGhrOTVybXdkeTdibjR0emdsMmZyc3Nlazc3NHBmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu9G9j7F17XpWuc/giphy.gif" width="16" height="16" alt="Left GIF">
+    <img src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="16" height="16" alt="Left GIF">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hey!+It's+Joshua!;I'm+a+Software+Developer...;And+also+a+Telecomunication+Engineer;I+Hope+you+like+my+profile!" alt="Typing SVG">
     </a>
-    <img src="[https://your-left-gif-url.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp6dDhra2RoOGhrOTVybXdkeTdibjR0emdsMmZyc3Nlazc3NHBmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7bu9G9j7F17XpWuc/giphy.gif)" width="16" height="16" alt="Left GIF">
 </p>
 
 <p align="center">
