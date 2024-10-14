@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="100" height="100" alt="Left GIF">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=16FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joshua!;Welcome+to+My+Project!;Software+Developer+%7C+Telecom+Engineer;Let's+Build+Something+Awesome!">
+  <a href="https://readme-typing-svg.herokuapp.com?font=VT323&duration=4000&color=16FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joshua!;Welcome+to+My+Profile!;Software+Developer+%7C+Telecom+Engineer;Let's+Build+Something+Awesome!">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&color=16FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Joshua!;Welcome+to+My+Project!;Software+Developer+%7C+Telecom+Engineer;Let's+Build+Something+Awesome!" alt="Typing SVG">
   </a>
   <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="100" height="100" alt="Right GIF">
