@@ -1,10 +1,17 @@
-
 <h1 align="center">Hi there!👋</h1>
 
-<div style="position: relative; text-align: center; color: white; font-family: Arial, sans-serif;">
-  <img src="https://images.pexels.com/photos/3708459/pexels-photo-3708459.jpeg" style="width: 100%;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 24px;">
-    <h2 style="margin: 0;">Texto sobre la imagen</h2>
-    <p style="margin: 0;">Aquí puedes colocar más detalles</p>
-  </div>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=FALSO&vCenter=FALSO&repeat=verdadero&random=FALSO&width=435&lines=Hey!+It's+Joshua!;I'm+a+Software+Developer...;And+also+a+Telecomunication+Engineer;I+Hope+you+like+my+profile!)](https://git.io/typing-svg)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=elyochuer&label=Profile%20views&color=0e75b6&style=flat" alt="elyochuer" /> </p>
+
+- 🌱 I’m currently learning **| NLP | RPA |**
+
+- 💬 Ask me about **| Python | MySQL | Web Scraping | Cobol |**
+
+- 📫 How to reach me **Joshuaorrego8@gmail.com**
+
+- ⚡ Fun fact **I am committed in proyects**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jhosua-orrego-garcía-ba8b361bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=
