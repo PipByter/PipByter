@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://media.giphy.com/media/QXwtfadqo7wbfmT46H/giphy.gif" width="100" height="100" alt="Left GIF" style="margin-right: 20px;">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hi%2C+I'm+Joshua!;Welcome+to+My+Profile!;Software+Developer+%7C+Telecom+Engineer;Let's+Build+Something+Awesome!" alt="Typing SVG">
+        <img src="https://readme-typing-svg.herokuapp.com?font=VT323&color=16FF00&size=30&pause=1000&center=true&vCenter=true&repeat=true&width=435&lines=Hi%2C+I'm+Joshua!;Welcome+to+My+Profile!;Software+%7C+Telecom+Engineer;Let's+Build+Something+Awesome!" alt="Typing SVG">
     </a>
     <img src="https://media.giphy.com/media/g2jj9VAIBluIreVNsb/giphy.gif" width="100" height="100" alt="Right GIF" style="margin-left: 20px;">
 </p>
